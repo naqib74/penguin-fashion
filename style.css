@@ -1,12 +1,47 @@
-.penguin-card{
-    border: 0;
-    border-radius: 10px !important;
+h1{
+  color: #FABE4C;  
+  font-size: 50px !important;
+  font-weight: bold;
 }
-.penguin-card-footer{
-    background-color: white;
-    border-radius: ;
+span{
+    color:#363958;
+
 }
+.header-bg{
+    background-color: #FFFBF0;
+}
+
 .services img{
     width: 78px;
     height: 82px;
+}
+.penguin-card{
+    border: 0 !important;
+}
+.penguin-card img{
+    background-color: lightgray;
+    border-radius: 10px;
+    width: 100%;
+    
+}
+.penguin-card-footer{
+    background-color: white !important;
+    border: 0 !important;
+    display: flex;
+    justify-content: space-between;
+}
+h3,h2{
+    color:#363958;
+}
+.price{
+    color:#FABE4C ;
+}
+.color-btn{
+    background-color: #A4BC46;
+    border-radius: 10px;
+    padding: 15px;
+    color: white;
+}
+i{
+    font-size: 30px;
 }
